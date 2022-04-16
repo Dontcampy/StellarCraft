@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.dont39.stellarcraft.ExampleModKt::init"
+      "com.dont39.stellarcraft.StellarCraftModKt::init"
     ]
   },
   "mixins": [
